@@ -1,0 +1,35 @@
+.about-me-image {
+  height: 200px;
+}
+
+.project-image {
+  height: 200px;
+}
+
+.contact-img {
+  height: 200px;
+}
+
+.internal-elements {
+  display: flex;
+}
+
+.right-side-block {
+  padding-left: 10px;
+}
+
+.left-side-block {
+  padding-left: 10px;
+}
+
+.list-elements {
+  display: flex;
+}
+
+.internal-link {
+  padding: 5px;
+}
+
+.external-link {
+  padding: 5px;
+}
